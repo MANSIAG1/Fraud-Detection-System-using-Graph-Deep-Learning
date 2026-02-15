@@ -24,16 +24,4 @@ The dataset used in this research consists of real Bitcoin transaction data. Ple
 ## Results
 Our experimental results indicate that the proposed **VGAE-based fraud detection** significantly improves fraud detection in high-risk areas of the Bitcoin transaction graph.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any questions or collaborations, feel free to reach out:
-
-- **Email:** argiris.kor@gmail.com
-
-
----
-
-🚀 **Star this repository** if you find this work useful!
 
